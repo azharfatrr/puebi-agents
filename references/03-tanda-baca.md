@@ -59,17 +59,17 @@ II. Patokan Khusus
 
 **c. Contoh Penggunaan Tanda Titik dalam Tabel**
 
-![Tabel 1 Kelas Kata dengan kolom Nomor, Kata Kerja, dan Kata Benda; nomor 1., 2., dst. diikuti tanda titik](https://ejaan.kemendikdasmen.go.id/assets/contoh-penggunaan-tanda-baca-titik-a3-c.png)
+![Tabel 1 Kelas Kata dengan kolom Nomor, Kata Kerja, dan Kata Benda; nomor 1., 2., dst. diikuti tanda titik](assets/contoh-penggunaan-tanda-baca-titik-a3-c.png)
 
 **d. Contoh Penggunaan Tanda Titik dalam Bagan**
 
-![Bagan Alur Pendaftaran dengan enam tahap bernomor 1 sampai 6, dan setiap nomor diikuti tanda titik](https://ejaan.kemendikdasmen.go.id/assets/contoh-penggunaan-tanda-baca-titik-a3.png)
+![Bagan Alur Pendaftaran dengan enam tahap bernomor 1 sampai 6, dan setiap nomor diikuti tanda titik](assets/contoh-penggunaan-tanda-baca-titik-a3.png)
 
 ### 4. Tanda titik *tidak* digunakan di belakang angka terakhir pada deret nomor dalam perincian.
 
 **Misalnya:**
 
-![Dua deret nomor bab, 2.1–2.1.3 dan 2.2–2.2.3 serta II.A–II.A.3 dan II.B–II.B.3; tanda titik hanya dipakai di antara angka, bukan di belakang angka terakhir](https://ejaan.kemendikdasmen.go.id/assets/contoh-penggunaan-tanda-baca-titik-a4.png)
+![Dua deret nomor bab, 2.1–2.1.3 dan 2.2–2.2.3 serta II.A–II.A.3 dan II.B–II.B.3; tanda titik hanya dipakai di antara angka, bukan di belakang angka terakhir](assets/contoh-penggunaan-tanda-baca-titik-a4.png)
 
 ### 5. Tanda titik *tidak* digunakan pada angka atau huruf yang sudah bertanda kurung dalam perincian.
 

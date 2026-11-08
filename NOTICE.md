@@ -6,9 +6,9 @@ Lisensi MIT di `LICENSE` berlaku untuk kode, skrip, dan prosa asli dalam reposit
 
 ## EYD V
 
-The rules and examples in `references/01-huruf.md` through `references/07-kesalahan-umum.md` are based on [EYD V](https://ejaan.kemendikdasmen.go.id/) from Badan Pengembangan dan Pembinaan Bahasa. Indonesian copyright law (UU 28/2014, Article 42) does not grant copyright over legislation, so official regulatory text is reproduced here with attribution. The MIT license does not relicense that material.
+The rules and examples in `references/01-huruf.md` through `references/07-kesalahan-umum.md` are based on [EYD V](https://ejaan.kemendikdasmen.go.id/) from Badan Pengembangan dan Pembinaan Bahasa. Indonesian copyright law (UU 28/2014, Article 42) does not grant copyright over legislation, so official regulatory text is reproduced here with attribution. The MIT license does not relicense that material. The example images in `references/assets/` come from the same official site.
 
-Kaidah dan contoh dalam `references/01-huruf.md` sampai `references/07-kesalahan-umum.md` bersumber dari [EYD V](https://ejaan.kemendikdasmen.go.id/), Badan Pengembangan dan Pembinaan Bahasa. Menurut UU 28/2014 Pasal 42, peraturan perundang-undangan tidak dilindungi hak cipta, sehingga teks resmi itu disalin dengan atribusi. Lisensi MIT tidak melisensikan ulang materi tersebut.
+Kaidah dan contoh dalam `references/01-huruf.md` sampai `references/07-kesalahan-umum.md` bersumber dari [EYD V](https://ejaan.kemendikdasmen.go.id/), Badan Pengembangan dan Pembinaan Bahasa. Menurut UU 28/2014 Pasal 42, peraturan perundang-undangan tidak dilindungi hak cipta, sehingga teks resmi itu disalin dengan atribusi. Lisensi MIT tidak melisensikan ulang materi tersebut. Gambar contoh di `references/assets/` berasal dari situs resmi yang sama.
 
 ## Gaya / Style example
 
