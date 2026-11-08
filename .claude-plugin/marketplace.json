@@ -1,0 +1,14 @@
+{
+  "name": "puebi",
+  "description": "PUEBI/EYD V spelling skill for Indonesian text",
+  "owner": {
+    "name": "PUEBI contributors"
+  },
+  "plugins": [
+    {
+      "name": "puebi",
+      "source": "./",
+      "description": "Use when editing Indonesian text against EYD V and choosing familiar loanwords."
+    }
+  ]
+}
