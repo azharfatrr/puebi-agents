@@ -71,7 +71,7 @@ Untuk teks yang ditempelkan, tampilkan hasil koreksi, lalu tabel singkat:
 | Sebelum | Sesudah | Kaidah |
 |---|---|---|
 | `Apapun` | `Apa pun` | Partikel 2 |
-| `di tulis` | `ditulis` | Kata Turunan 1 |
+| `di tulis` | `ditulis` | Kata Turunan 1a |
 
 Untuk file, sebutkan path, jumlah perubahan, dan bagian yang belum bisa dipastikan. Jika tidak ada yang perlu diubah, katakan demikian.
 
@@ -101,10 +101,10 @@ Tabel ini berisi contoh. Untuk kasus lain, buka aturan lengkap di `references/`.
 | `3.5` (tiga koma lima) | `3,5` | Tanda Koma 12 |
 | `17 Agustus 1945` | tetap; `17-08-1945` juga boleh | Tanda Hubung 3 |
 | `pukul 14.00` atau `pukul 14:00` | keduanya boleh | Tanda Titik 7; Titik Dua 6 |
-| `dll`, `dsb`, `hlm` | `dll.`, `dsb.`, `hlm.` | Singkatan 4a |
+| `dll`, `dsb`, `hlm` | `dll.`, `dsb.`, `hlm.` | Singkatan 4.a |
 | `KTP`, `PT`, `WHO` | tanpa titik | Singkatan 3 |
 | `kg.`, `km.` | `kg`, `km` | Singkatan 5 |
-| `No 5` dalam alamat | `No. 5` | Singkatan 4c |
+| `No 5` dalam alamat | `No. 5` | Singkatan 4.c |
 | `ke 2`, `tahun 2000 an` | `ke-2`, `tahun 2000-an` | Tanda Hubung 5 |
 | `senin`, `agustus`, `jumat` | `Senin`, `Agustus`, `Jumat` | Huruf Kapital 13 |
 | `agama islam`, `bangsa indonesia` | `agama Islam`, `bangsa Indonesia` | Huruf Kapital 7, 11 |
@@ -157,7 +157,7 @@ Jika kata yang dicari tidak ada, buka aturan yang sesuai. Untuk memastikan bentu
 
 ## Kasus yang perlu konteks
 
-- `di tulis` menjadi `ditulis` jika `di-` adalah awalan. Kata depan pada `di rumah` tetap dipisah (Kata Turunan 1; Kata Depan).
+- `di tulis` menjadi `ditulis` jika `di-` adalah awalan. Kata depan pada `di rumah` tetap dipisah (Kata Turunan 1a; Kata Depan).
 - `Mujair` adalah nama orang, tetapi `ikan mujair` adalah nama jenis (Huruf Kapital 3).
 - `Perang Dunia II` adalah nama peristiwa; `perang dunia` dapat menyebut peristiwa secara umum (Huruf Kapital 14–15).
 - `Gunung Semeru` adalah nama tempat, sedangkan `teluk` dalam `berlayar ke teluk` bukan nama. Tulis `jeruk bali` untuk jenis buah, tetapi `batik Cirebon` untuk asal daerah (Huruf Kapital 16–19).
