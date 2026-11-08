@@ -36,7 +36,7 @@ During pure proofreading, the skill keeps the writer's words. The loanword prefe
 
 ### Install
 
-Requires Node.js 22 or newer for `npx skills` and Python 3.9 or newer for the scripts.
+Requires Node.js 22.20 or newer for `npx skills` and Python 3.9 or newer for the scripts.
 
 From this repository:
 
@@ -118,7 +118,7 @@ EYD regulates spelling, not the quality of an entire piece of writing. KBBI dete
 
 ### Disclaimer
 
-This project is maintained by a developer, not a linguist. The rules and examples were transcribed from the official EYD V website, and mistakes may remain. When a correction matters, verify it against the [official EYD V site](https://ejaan.kemendikdasmen.go.id/) or [KBBI](https://kbbi.kemdikbud.go.id/). Corrections from language teachers, editors, translators, and other readers are welcome.
+This project is maintained by a developer, not a linguist or language professional. The rules and examples were transcribed from the official EYD V website, and mistakes may remain. When a correction matters, verify it against the [official EYD V site](https://ejaan.kemendikdasmen.go.id/) or [KBBI](https://kbbi.kemdikbud.go.id/). Corrections from language teachers, editors, translators, and other readers are welcome.
 
 ### Contributing
 
@@ -172,7 +172,7 @@ Saat pengguna hanya meminta pemeriksaan ejaan, skill mempertahankan kata-kata pe
 
 ### Instalasi
 
-Butuh Node.js 22 atau lebih baru untuk `npx skills` dan Python 3.9 atau lebih baru untuk skrip.
+Butuh Node.js 22.20 atau lebih baru untuk `npx skills` dan Python 3.9 atau lebih baru untuk skrip.
 
 Dari repositori ini:
 
@@ -254,7 +254,7 @@ EYD mengatur ejaan, bukan mutu seluruh tulisan. KBBI menentukan bentuk baku suat
 
 ### Disclaimer
 
-Proyek ini dikelola oleh seorang pengembang, bukan ahli bahasa. Kaidah dan contoh disalin dari situs resmi EYD V, dan masih mungkin ada kekeliruan. Untuk keputusan penting, cocokkan dengan [situs resmi EYD V](https://ejaan.kemendikdasmen.go.id/) atau [KBBI](https://kbbi.kemdikbud.go.id/). Koreksi dari guru bahasa, editor, penerjemah, dan pembaca lain sangat diterima.
+Proyek ini dikelola oleh seorang pengembang, bukan ahli bahasa atau praktisi bahasa. Kaidah dan contoh disalin dari situs resmi EYD V, dan masih mungkin ada kekeliruan. Untuk keputusan penting, cocokkan dengan [situs resmi EYD V](https://ejaan.kemendikdasmen.go.id/) atau [KBBI](https://kbbi.kemdikbud.go.id/). Koreksi dari guru bahasa, editor, penerjemah, dan pembaca lain sangat diterima.
 
 ### Kontribusi
 
